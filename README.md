@@ -1,5 +1,5 @@
 # 1) 🧮 Assignment 1: เครื่องคิดเลข (Basic Calculator)
-- Deploy: [ดูหน้าเว็บ](https://Chadaporn24.github.io/JavaScript-Homework/BasicCalculator)
+- Deploy: [ดูหน้าเว็บ](https://Chadaporn24.github.io/JavaScript-Homework/BasicCalculator/index.html)
 เป้าหมาย: เข้าใจ event, การทำงานของ function, DOM
 สิ่งที่อยากให้มี:
 
